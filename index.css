@@ -1,0 +1,52 @@
+
+body{
+    background-color: #F8F8F8;
+    
+}
+
+.cabeçalho{
+    text-align: center;
+    color:skyblue
+}
+
+h3{
+    color: black;
+}
+.container{
+    display: flex;
+    gap: 20px;
+    
+}
+.box{
+  width: 30%; 
+  padding: 10px;
+  
+text-align: center;
+  
+}
+
+button{
+    margin-top: 50px;
+    
+}
+
+.imagem1{
+    width: 40px;
+    height: 40px;
+}
+.box1{
+    margin: 30px;
+    
+}
+.imagem2{
+    width: 200px;
+    height:200px ;
+    border-radius: 50%;
+    border: 5px solid whitesmoke;
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 100px;
+  }
