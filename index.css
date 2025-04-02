@@ -47,6 +47,7 @@ button{
     height:200px ;
     border-radius: 50%;
     border: 5px solid whitesmoke;
+    align-items: center;
 }
 footer {
     background-color: #333;
