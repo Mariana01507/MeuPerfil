@@ -60,17 +60,19 @@ button {
     margin: 30px;
     background-color: var(--cor-box1);
     text-align: center;
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    height: 300px;       
 }
-
 
 .imagem2 {
     width: 200px;
     height: 200px;
     border-radius: 50%;
     border: 5px solid whitesmoke;
-    align-items: center;
+    object-fit: cover; 
 }
-
 
 footer {
     background-color: var(--cor-footer);
